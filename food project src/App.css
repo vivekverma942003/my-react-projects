@@ -1,0 +1,38 @@
+.App{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 24px;
+}
+.search{
+margin-top: 18px;
+padding: 6px 16px;
+size: 10px;
+}
+.input{
+  padding: 6px 16px;
+  font-size: larger;
+}
+.submit{
+  padding: 6px 16px;  
+  
+  margin-left: 6px;
+  background-color: rgb(33, 124, 124);
+  border: solid black 2px;
+  border-radius: 4px;
+  font-size: 15px;
+  color: whitesmoke;
+}
+.app-view{
+  margin-top:24px;
+  display:grid;
+  grid-template-columns: 400px 230px;
+  justify-content: center;
+  align-items: baseline;
+}
+.app_helthlevel{
+padding: 7px 8px;
+margin-left: 6px;
+border-radius: 6px;
+}
