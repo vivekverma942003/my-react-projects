@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@300;500&display=swap');
+.main{
+    background: url("./newbackground.jpg");
+    opacity: 1;
+}
+
+.contactform h2{
+    /* font-family: 'Playfair Display', serif; */
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    font-size: 50px;
+}
+.contactform{
+    font-family: 'Encode Sans', sans-serif;
+    margin-top: 140px;
+    text-align: center;
+    font-size: 20px;
+    /* background: url("./background\ medium.jpg"); */
+    opacity: 1;
+}
+.contactform form div{
+    padding: 10px 0px;
+}
+.form-text{
+    font-size: 15px;
+    color: rgb(250, 39, 2);
+}
+.form-control{
+    background:#f2e4bb;
+    color:black;
+    height: 22px;
+}
+.cnbutton{
+    border-radius: 20px;
+    background-color: rgb(74, 74, 204);
+    color: white;
+    height: 42px;
+    width: 100px;
+    font-size: 22px;
+}
+.cnbutton:hover{
+    color:rgb(74, 74, 204);
+    background-color: white;
+}

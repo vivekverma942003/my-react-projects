@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+.blogitem{
+    margin: 30px;
+}
+.blogcontainer{
+    text-align: center;
+}
+.blogcontainer h1{
+    font-family: 'Pattaya', sans-serif;
+}
+.main{
+    background:url("./sky\ background.jpg");
+}
+.read button{
+    background:black;
+    color:white;
+    border-radius: 15px;
+    height: 35px;
+    width: 102px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.read button:hover{
+    background: white;
+    color: black;
+}

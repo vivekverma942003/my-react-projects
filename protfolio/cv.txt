@@ -1,0 +1,13 @@
+This is my CV .
+I am Creating my own portfolio website with the basics of html and css.
+Learning new things brings both joy and frustration.
+And development sits on the top of the frustration pyramid.
+Sadly, most job offers require that you both design and develop websites nowadays, 
+So knowing how to code at least some front-end is crucial as a UX/UI designer.
+
+
+The same principle can be made with HTML. If you’re not developing in SPA environments like Gatsby.
+You can use PHP to include and require pieces of HTML code.
+
+It’s important to merge them because you want to minimize,
+the number of HTTP requests your website does.
